@@ -1,6 +1,6 @@
 # basicdemo
 
-A new Flutter application.
+This Flutter appication was created to demonstrate the golden (snapshot) testing with a stateful widget.
 
 ## Getting Started
 
